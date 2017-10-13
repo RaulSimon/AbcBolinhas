@@ -7,7 +7,7 @@ and open the template in the editor.
 
 
 <root>
-    <project name="exemplo para build no jenkins">
+    <project name="AbcBolinhas">
 <path id="tests.classpath" path=".">
 <fileset dir="lib/">
 <include name="*.jar" />
